@@ -1,6 +1,6 @@
 # FarmOfTheDamnedBeta
 This is all the beta versions of FarmOfTheDamned, a horror game me and friend are developing.
-Here's the linky for the latest version: 
+Here's the linky for the latest version: https://deceasedsnake82.github.io/FarmOfTheDamnedBeta/0.0.5/
 So far these are all the versions:
   0.0.1
   0.0.2
